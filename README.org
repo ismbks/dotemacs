@@ -1,0 +1,11 @@
+* My Emacs Config
+
+This repo contains my personal Emacs configuration, target version 29.1.
+
+Inspirations are heavily taken from the following configs:
+
+- https://codeberg.org/daviwil/dotfiles/src/branch/master/Emacs.org
+- https://protesilaos.com/emacs/dotemacs
+- https://github.com/ianyepan/.wsl-emacs.d/blob/master/init.el
+- https://github.com/ianyepan/yay-evil-emacs/blob/master/config.org
+- https://github.com/SystemCrafters/crafted-emacs/tree/master/modules
