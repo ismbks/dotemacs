@@ -60,7 +60,7 @@
 	 ("C-c C-d" . helpful-at-point)))
 
 ;; Emacs completion framework
-;; Almost no configuration is done below
+;; Almost no configuration is needed
 (use-package vertico
   :ensure t
   :init (vertico-mode))
